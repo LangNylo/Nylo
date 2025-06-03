@@ -1,0 +1,18 @@
+inicio:
+
+mensagem:
+	"Olá! Que bom ver você por aqui."
+		botao 1:
+			"Quero saber mais" -> mais_info
+		botao 2:
+			"Falar com alguém" -> atendimento_humano
+
+fluxo mais_info:
+	mensagem:
+		"Nosso produto é top. Veja só!"
+
+fluxo atendimento_humano:
+	mensagem:
+		"Já vou chamar alguém para você..."
+
+fim
