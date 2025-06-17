@@ -34,3 +34,7 @@
 | **Delimitadores**     | `NEWLINE`    | (quebra de linha)                                   | `\n`                                                |
 | **Comentário**        | `COMMENT`    | `# isso é um comentário`                            | `#.*`                                               |
 | **Espaço/tabulação**  | `WHITESPACE` | ` `, `\t`                                            | `[ \t]+` (ignorar ou usar para indentação)          |
+
+### SUGESTÕES DE MELHORIAS
+
+#### 💭 - Visando atualizações e melhorias precisas, a sua sugestão também pode ajudar a melhorar o Nylo! Caso queira dar sugestões, encaminhe e-mails ao langnylo1@gmail.com que vamos analisar com cuidado e alinhar em nossos planos de implantação.
